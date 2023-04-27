@@ -1,0 +1,19 @@
+{
+  "name": "dai-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcastelletti13/dai-app.git"
+  },
+  "author": "Caste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcastelletti13/dai-app/issues"
+  },
+  "homepage": "https://github.com/fcastelletti13/dai-app#readme"
+}
